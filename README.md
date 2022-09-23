@@ -8,9 +8,9 @@
 5. MPU6050 - gyroscop module to determine the position of the robot
 
 ## Todo
-- [ ] Create the 3D print and assemble the robot
+- [X] Create the 3D print and assemble the robot
 - [ ] Test the robot for basic movement functionalty and sensors
-- [ ] Perfect the algorithm in the simulation
+- [X] Perfect the algorithm in the simulation
 - [ ] Write the algorithm in C and check the size of the source files
 - [ ] Perform Test runs
 
